@@ -1,0 +1,7 @@
+*.csv
+*.dat
+images/
+log
+details/*
+details/
+*.zip
